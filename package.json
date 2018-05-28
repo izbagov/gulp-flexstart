@@ -2,7 +2,7 @@
   "name": "gulp-flexstart",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "gulpfile.js",
   "scripts": {
     "gulp": "gulp"
   },
